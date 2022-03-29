@@ -1,0 +1,16 @@
+--Zephyr Hub
+--Supports almost any executor and works with arceus x
+--For the best duping speed it is recommended to use pc
+--Automated dupe
+--Automated crash
+--Anti-ban
+--Pet ID Changer
+--Use before patch
+--Dupe fixed and you can now use it
+--Multiple Features
+--TripleHatch
+--20 Pets Equipped
+--Visual Hatch
+--And many more
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/J0rd4nFr/PSXV2DUPE/main/DUPE"))()
